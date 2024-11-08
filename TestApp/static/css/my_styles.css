@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+     font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: italic;
+    background: #6f94c6; color: #fff;
+}
